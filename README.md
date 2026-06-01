@@ -277,5 +277,3 @@ GitHub: [https://github.com/Deepshikha-Mohanty](https://github.com/Deepshikha-Mo
 
 This project is created for educational and learning purposes.
 
-
-This will make the repository look more professional to recruiters and during placements.
